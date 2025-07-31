@@ -25,4 +25,5 @@ To keep it simple, only very basic technologies are being used here:
 * Typescript – for type checking
 * React – for rendering the UI
 * Vite – for the basic project structure
+* Pnpm – a faster and more reliable alternative to npm
 * Vitest + React testing library – for unit tests (Vite is an alternative to Jest and has an almost identical usage)
